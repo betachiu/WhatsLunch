@@ -3,37 +3,44 @@
     {
       "id": 1,
       "name": "福爾摩沙中式燉飯佐傳奇醬汁",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo1.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo1.jpg",
+      "price": 35
     },
     {
       "id": 2,
       "name": "精燉牡礪義大利細麵佐日式柴魚高湯",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo2.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo2.jpg",
+      "price": 60
     },
     {
       "id": 3,
       "name": "法式焗香奶油煎餅佐相思豆泥",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo3.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo3.jpg",
+      "price": 15
     },
     {
       "id": 4,
       "name": "法國風味羅勒炸去骨雞肉佐胡椒",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo4.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo4.jpg",
+      "price": 70
     },
     {
       "id": 5,
       "name": "碳烤台灣熱狗厚切糯米捲",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo5.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo5.jpg",
+      "price": 55
     },
     {
       "id": 6,
       "name": "中式燉肉末佐青蔥蔬菜細麵",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo6.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo6.jpg",
+      "price": 50
     },
     {
       "id": 7,
       "name": "油炸發酵豆腐佐醃漬生菜",
-      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo7.jpg"
+      "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo7.jpg",
+      "price": 40
     }
   ]
 }
