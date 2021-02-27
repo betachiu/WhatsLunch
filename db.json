@@ -4,43 +4,50 @@
       "id": 1,
       "name": "福爾摩沙中式燉飯佐傳奇醬汁",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo1.jpg",
-      "price": 35
+      "price": 35,
+      "description": "滷肉飯在臺灣被視為極具台灣特色的民眾小吃，在全臺各地都有店家販售，南北有不同的意義。在北臺灣，滷肉飯為一種淋上含有煮熟碎豬肉或炒香肉燥（豬絞肉）及醬油滷汁的白飯菜餚，有時醬汁裡亦會有香菇丁等的成份在內，與炕肉飯不同，看起來像南臺灣肉燥飯。" 
     },
     {
       "id": 2,
       "name": "精燉牡礪義大利細麵佐日式柴魚高湯",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo2.jpg",
-      "price": 60
+      "price": 60,
+      "description": "蚵仔麵線，為閩南小吃中極具有特色的一種，主要原料為蚵仔（小牡蠣）和麵線，蚵需先拌太白粉。但市面上也有許多是用大腸麵線（滷好的豬大腸和麵線）來販售，稱為麵線羹或麵線焿。常有「機器麵線」與「手工麵線」之分，機器麵線口感較差，手工麵線則較有口感，手工麵線的成本也較高。"
     },
     {
       "id": 3,
       "name": "法式焗香奶油煎餅佐相思豆泥",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo3.jpg",
-      "price": 15
+      "price": 15,
+      "description": "今川燒（日語：今川焼き）又稱車輪餅、娜翠餅、紅豆餅，是一種和菓子，是江戸時代中期的安永年間江戸・神田「今川橋」，故而得名。今川燒的外皮以麵粉、雞蛋與砂糖製成，外皮之間夾有內餡，早期的餡料通常是紅豆泥，或是菜豆去皮後打成的白餡。"
     },
     {
       "id": 4,
       "name": "法國風味羅勒炸去骨雞肉佐胡椒",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo4.jpg",
-      "price": 70
+      "price": 70,
+      "description": "香雞排，或稱炸雞排、雞排，是台灣常見的一種小吃，為炸雞的一種，通常的做法是先以醬料醃漬雞胸肉入味，再以麵包粉、麵粉漿或地瓜粉裹覆雞胸肉下鍋油炸，起鍋後再灑上胡椒鹽而成，絕大多數是將雞排放入防油紙袋內食用，有的放入前會先切開。"
     },
     {
       "id": 5,
       "name": "碳烤台灣熱狗厚切糯米捲",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo5.jpg",
-      "price": 55
+      "price": 55,
+      "description": "大腸包小腸，是一種台灣小吃，俗稱台式熱狗，發源於台灣花蓮的客家人出門工作時的點心，於九十年代開始在台灣夜市流行，並在現在成為台灣普遍的美食。在許多景點常有小攤販與客人以骰子對賭，故有句俗諺曰「黑無腸，白無腸，大腸包小腸」。大腸包小腸與美國的熱狗有異曲同工之妙。"
     },
     {
       "id": 6,
       "name": "中式燉肉末佐青蔥蔬菜細麵",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo6.jpg",
-      "price": 50
+      "price": 50,
+      "description": "陽春麵，又稱光麵或清湯麵、白湯麵和上海麵，是指一種幾乎不加上任何配菜的湯麵或乾麵，常見於台灣與江蘇、上海。便宜簡便是受歡迎的主因，煮法沒有規限，細如龍鬚麵或者粗如寬麵均可使用，通常僅以豬油、醬油調味。"
     },
     {
       "id": 7,
       "name": "油炸發酵豆腐佐醃漬生菜",
       "photoURL": "https://raw.githubusercontent.com/betachiu/WhatsLunch/master/photo7.jpg",
-      "price": 40
+      "price": 40,
+      "description": "臭豆腐，是由豆腐發酵製作而來，是臺灣、長沙、南京、紹興等地的小吃之一，並流傳世界其它地方，但各地的製作方式、食用方法均有相當大的差異。臭豆腐含有必須胺基酸離胺酸，應避免與還原醣共同加熱，以免產生糖化終產物等致癌物。"
     }
   ]
 }
